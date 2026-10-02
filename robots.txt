@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /thanks/
+
+Sitemap: https://asbestosremovalofauckland.co.nz/sitemap.xml
