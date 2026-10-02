@@ -217,7 +217,7 @@ footer{background:var(--navy);color:#cacad3;padding:60px 0 28px;}
 .footer-map-head p{color:#a3a3b0;font-size:.85rem;margin:0;}
 .footer-map{border-radius:var(--radius);overflow:hidden;margin-bottom:40px;border:1px solid rgba(255,255,255,.08);}
 .footer-map iframe{width:100%;height:240px;border:0;display:block;}
-.footer-grid{display:grid;grid-template-columns:1.3fr 1fr 1fr 1fr .8fr;gap:32px;margin-bottom:36px;}
+.footer-grid{display:grid;grid-template-columns:1.4fr 1fr 1fr 1fr;gap:32px;margin-bottom:36px;}
 footer h4{color:var(--white);font-size:.85rem;text-transform:uppercase;letter-spacing:.08em;margin-bottom:14px;}
 footer ul{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:8px;}
 footer a{color:#a3a3b0;font-size:.9rem;}
